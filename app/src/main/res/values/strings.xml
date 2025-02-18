@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Compass_kartik</string>
+    <string name="latitude">latitude N</string>
+    <string name="longitude">longitude E</string>
+    <string name="latitude_destination">destination latitude N</string>
+    <string name="longitude_destination">destination longitude E</string>
+    <string name="permissionsLatitudeNeeded">Permissions are needed</string>
+    <string name="permissionsLongitudeNeeded">Permissions are needed</string>
+    <string name="set_destination_button">set destination coordinates</string>
+    <string name="longitude_error">Write longitude in decimal degree format</string>
+    <string name="latitude_error">Write latitude in decimal degree format</string>
+    <string name="save_button_text">save</string>
+    <string name="current_coordinates_info_text">Current coordinates</string>
+    <string name="destination_coordinates">Destination coordinates</string>
+    <string name="hint_latitude">52.377 N</string>
+    <string name="hint_longitude">43.224 E</string>
+    <string name="distance">distance</string>
+    <string name="distance_info">Distance to destination</string>
+    <string name="blank_coordintes">Enter coordinates</string>
+    <string name="blank_latitude">Enter latitude</string>
+    <string name="blank_longitude">Enter longitude</string>
+    <string name="kilometers"> km</string>
+    <string name="n"> N</string>
+    <string name="e">" E"</string>
+</resources>
