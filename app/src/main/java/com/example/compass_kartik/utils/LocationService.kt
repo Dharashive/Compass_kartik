@@ -4,8 +4,7 @@ import android.annotation.SuppressLint
 import android.location.Location
 import android.location.LocationListener
 import android.location.LocationManager
-import com.example.compass_kartik.MainActivity
-//import com.example.compass_kartik.feature.main.MainActivity
+import com.example.compass_kartik.feature.main.MainActivity
 
 class LocationService(
     private val listener: MainActivity,
